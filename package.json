@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest -i"
+    "test": "jest -i",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Andrew Sales",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
